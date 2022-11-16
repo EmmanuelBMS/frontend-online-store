@@ -11,7 +11,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <BrowserRouter>
+        <BrowserRouter basename="frontend-online-store">
           <Switch>
             <Route exact path="/" component={ Home } />
             <Route path="/cart" component={ ShoppingCartPage } />
