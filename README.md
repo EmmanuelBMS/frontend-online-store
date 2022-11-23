@@ -15,6 +15,8 @@ Adicionar produtos ao carrinho, uma tela de checkout, fazer uso de localstorage 
 - Reaproveitamento de código
 - Gestão de estados nos componentes da aplicação
 - Conceito de prop drilling
+- Metodologias Ágeis
+- Padronização de commits
 
 ## Tecnologias: 
 
